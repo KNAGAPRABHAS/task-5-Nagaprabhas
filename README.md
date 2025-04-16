@@ -18,15 +18,6 @@ This project performs Exploratory Data Analysis (EDA) on a given dataset to unco
 
 ---
 
-## 📂 Project Structure
-
-```
-├── eda_notebook.ipynb     # Main Jupyter notebook with all EDA steps
-├── 5dbcebd5-*.csv          # Original dataset (uploaded)
-├── README.md               # Project description
-└── report.pdf              # Exported PDF of visualizations and findings (optional)
-```
-
 ---
 
 ## 📌 EDA Steps Covered
@@ -75,17 +66,7 @@ This project performs Exploratory Data Analysis (EDA) on a given dataset to unco
 
 ## 📄 Deliverables
 - ✔️ Jupyter Notebook with full EDA
-- ✔️ Optional PDF report of visualizations and conclusions
 - ✔️ README summary (this file)
 
 ---
 
-## 🤝 Contributions
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 📧 Contact
-Feel free to reach out with any questions or suggestions!
-
-```
