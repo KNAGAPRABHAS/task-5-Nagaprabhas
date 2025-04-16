@@ -1,4 +1,3 @@
-Got it! Here's a clean and polished **`README.md` description** tailored for your **EDA project** that you can drop straight into your GitHub repo 👇
 
 ---
 
@@ -90,5 +89,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Feel free to reach out with any questions or suggestions!
 
 ```
-
-Let me know if you'd like a badge, license section, or GitHub Pages integration too!
